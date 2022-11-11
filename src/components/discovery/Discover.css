@@ -1,0 +1,24 @@
+.discovery{
+    height: 100vh;
+}
+
+.about .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: auto;
+} 
+
+.discovery .text h6{
+    color: #008F7F;
+    font-weight: 800;
+    font-size: 1rem;
+}
+
+.discovery .text h2{
+    color: #111;
+    font-weight: 700;
+    font-size: 2.7rem;
+}
+

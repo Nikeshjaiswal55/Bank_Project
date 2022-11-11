@@ -1,0 +1,25 @@
+.about{
+    background: black;
+    height: 100vh;
+}
+
+/* .about .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: auto;
+}  */
+
+.about .text h6{
+    color: #008F7F;
+    font-weight: 800;
+    font-size: 1rem;
+}
+
+.about .text h2{
+    color: #f7f5f4;
+    font-weight: 700;
+    font-size: 2.7rem;
+}
+
